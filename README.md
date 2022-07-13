@@ -17,7 +17,7 @@
 
 - After formatting, initializing, and setting varibles...My code looked like this:
 
-'''
+
     '1a) Create a ticker Index
     
     Dim tickerIndex As Integer

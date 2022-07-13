@@ -9,6 +9,12 @@
 - The code is intended to ask the user what year they would like analysis on. Then it creates an array of data that includes the stock information for each stock.
 - The stocks in 2017 compared to 2018 seemed to have a higher return. The only stock that had a negative return in 2017 was TERP. All other stocks had quite large returns, only a couple positive returns were single digits.
 - In 2018, on the other hand, only two stocks had a positive return and were both in the 80% range. All other stocks had a negative return with less daily volume as well. There were a few that had higher daily volume, but I'm not sure if the change in volume is attributable or correlates to the return rate of the stock.
+
+[2018 Stocks](https://github.com/mbugyis/stocks-analysis/blob/main/Resources/2018_Stocks.png)
+
+[2017 Stocks](https://github.com/mbugyis/stocks-analysis/blob/main/Resources/2017_Stocks.png)
+
+
 - After formatting, initializing, and setting varibles...My code looked like this:
 
 '''
@@ -106,7 +112,3 @@
 
 - I also liked how instead of using the stock ticker when getting a price or volume, the stocks index was used. This made storing the output values such as ticker, start price, ending price, and volume much more easier to output in the end. Because when outputting, one could just run through another for loop which would go through each stock index.
 
-
-![2017 Stocks](2017_Stocks.png)
-
-![2018 Stocks](2018_Stocks.png)

@@ -106,6 +106,6 @@
 	2. I also liked how instead of using the stock ticker when getting a price or volume, the stocks index was used. This made storing the output values such as ticker, start price, ending price, and volume much more easier to output in the end. Because when outputting, one could just run through another for loop which would go through each stock index.
 
 
-![2017 Stocks](\Resources\2017_Stocks.png)
+![2017 Stocks](2017_Stocks.png)
 
-![2018 Stocks](\Resources\2018_Stocks.png)
+![2018 Stocks](2018_Stocks.png)
